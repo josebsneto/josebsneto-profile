@@ -31,6 +31,6 @@ Father of a beautiful little girl, rock climber and web developer passionate abo
   
   
  
-  ![Snake animation]()
+  ![Snake animation](https://github.com/josebsneto/josebsneto-profile/blob/output/github-contribution-grid-snake.svg)
  
 </div>
